@@ -1,7 +1,7 @@
 # FTCThreading
- Presentation and sample source code for Java 8 threading in FTC  
+ Presentation and sample source code for Java 8 threading in FTC.  
  
- The presentation provides background on multi-threading in general and multi-threading in Java 8 in particular. 
+ The presentation provides background on multi-threading in general and its use in Java 8 with a focus on FTC. 
  
  Before loading the source code files into your FTC Android Studio project, you must first import the source code or the aaa of the open-source ftcdevcommon library. Please follow the instructions in the README for the Github repository AusreisserSF/FTCDEVCommonAndroid.
  
